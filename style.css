@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: aqua;
+}
+
+.botoesSuperiores {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: aqua;
+}
+
+.botoesSuperiores {
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.maidBody {
+    display: flex;
+    gap: 20px;
+}
