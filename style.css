@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+}
+header {
+    background-color: #51cca3;
+    color: #51cca3;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Logo img {
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.Lista-Header {
+    display: flex;
+    gap: 20px;
+}
+
